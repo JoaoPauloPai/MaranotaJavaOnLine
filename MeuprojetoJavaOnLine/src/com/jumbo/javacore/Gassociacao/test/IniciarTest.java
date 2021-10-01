@@ -1,6 +1,6 @@
-package com.jumbo.javacore.Gassociacao.testßao.test;
+package com.jumbo.javacore.Gassociacao.test;
 
-import com.jumbo.javacore.Gassocia√ßao.classes.*;
+import com.jumbo.javacore.Gassociacao.classes.*;
 
 public class IniciarTest {
     public static void main(String[] args) {
