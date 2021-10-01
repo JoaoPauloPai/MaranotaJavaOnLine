@@ -1,4 +1,4 @@
-package com.jumbo.javacore.Gassociaçao.classes;
+package com.jumbo.javacore.Gassociacao.classes;
 
 public class Professor {
     private Seminario seminario;

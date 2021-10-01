@@ -1,6 +1,6 @@
-package com.jumbo.introducao.operadores�ao.operadores;
+package com.jumbo.introducao.operadores;
 
-public class OperadoresDeComparaçao {
+public class OperadoresDeComparacao {
     public static void main(String[] args){
         System.out.println("\n Comparação de 5 é igual a 5 : "+(5==5));
         System.out.println(" Comprar 5 com outro 5 : "+(5!=5));

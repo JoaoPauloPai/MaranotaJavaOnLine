@@ -1,4 +1,4 @@
-package com.jumbo.javacore.Gassociaçao.test;
+package com.jumbo.javacore.Gassociacao.test�ao.test;
 
 import com.jumbo.javacore.Gassociaçao.classes.*;
 

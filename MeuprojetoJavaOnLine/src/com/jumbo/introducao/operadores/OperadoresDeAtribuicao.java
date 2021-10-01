@@ -1,6 +1,6 @@
-package com.jumbo.introducao.operadores�ao.operadores;
+package com.jumbo.introducao.operadores;
 
-public class OperadoresDeAtribuição {
+public class OperadoresDeAtribuicao {
     public static void main(String[] args) {
         //-=, +=, *=, /+
         int salario = 1000;

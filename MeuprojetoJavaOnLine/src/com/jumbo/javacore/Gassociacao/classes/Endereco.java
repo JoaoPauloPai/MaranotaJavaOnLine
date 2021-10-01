@@ -1,22 +1,21 @@
-package com.jumbo.javacore.Gassociaçao.classes;
+package com.jumbo.javacore.Gassociacao.classes;
 
-public class Local {
+import com.jumbo.introducao.Iniciar;
 
+public class Endereco {
     private String rua;
     private int numero;
     private String bairro;
     private String estado;
 
-    public Local(String rua, int numero, String bairro, String estado, String cidade) {
+    public Endereco(String rua, int numero, String bairro, String estado) {
         this.rua = rua;
         this.numero = numero;
         this.bairro = bairro;
         this.estado = estado;
-        this.cidade = cidade;
     }
 
-    public Local(String rua) {
-        this.rua = rua;
+    public Endereco(String rua_da_acacias_, int i, String mato_grosso) {
     }
 
     public String getRua() {
@@ -50,15 +49,4 @@ public class Local {
     public void setEstado(String estado) {
         this.estado = estado;
     }
-
-    public String getCidade() {
-        return cidade;
-    }
-
-    public void setCidade(String cidade) {
-        this.cidade = cidade;
-    }
-
-    private  String cidade;
-
 }

@@ -1,4 +1,4 @@
-package com.jumbo.introducao.controledefluxo§ao.controledefluxo;
+package com.jumbo.introducao.controledefluxo;
 
 public class ControleDeFluxoExercicio {
     public static void main(String[] args) {
